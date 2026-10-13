@@ -1,0 +1,22 @@
+[
+    {
+        "product":"Laptop",
+        "price":1000,
+        "quantity":5
+    },
+    {
+        "product":"Tablet",
+        "price":500,
+        "quantity":10
+    },
+    {
+        "product":"Smartphone",
+        "price":800,
+        "quantity":15
+    },
+    {
+        "product":"Desktop",
+        "price":1200,
+        "quantity":3
+    }
+]
